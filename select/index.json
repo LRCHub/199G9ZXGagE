@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "花ざかりWeekend✿",
+  "base_artist": "しぐれうい",
+  "createdAt": "2026-04-03T06:32:00.230112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花ざかりWeekend✿",
+      "artist": "4Luxury [桜守歌織 (CV.香里有佐)、豊川風花 (CV.末柄里恵)、北上麗花 (CV.平山笑美)、馬場このみ (CV.高橋未奈美)]",
+      "has_synced": true,
+      "path": "select/01_花ざかりWeekend✿_4Luxury_[桜守歌織_(CV.香里有佐)、豊川風花_(CV.末柄里恵)、北上麗花_(CV.平山笑美)、馬場このみ_(CV.高橋未奈美)].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花ざかりWeekend✿",
+      "artist": "4Luxury",
+      "has_synced": true,
+      "path": "select/02_花ざかりWeekend✿_4Luxury.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花ざかりWeekend✿",
+      "artist": "4 Luxury",
+      "has_synced": true,
+      "path": "select/03_花ざかりWeekend✿_4_Luxury.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花ざかりWeekend✿ - Best bloom Weekend",
+      "artist": "4 Luxury, Kaori Sakuramori (CV: Arisa Kori), Fuka Toyokawa (CV: Rie Suegara), Reika Kitakami (CV: Emi Hirayama)",
+      "has_synced": true,
+      "path": "select/04_花ざかりWeekend✿_-_Best_bloom_Weekend_4_Luxury,_Kaori_Sakuramori_(CV__Arisa_Kori),_Fuka_Toyokawa_(CV__Rie_Suegara),_Re.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花ざかりWeekend",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/05_花ざかりWeekend_しぐれうい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花ざかりWeekend✿ (Cover)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_花ざかりWeekend✿_(Cover)_しぐれうい.txt"
+    }
+  ]
+}
